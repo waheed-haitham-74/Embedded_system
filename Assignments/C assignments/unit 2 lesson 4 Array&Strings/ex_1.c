@@ -2,8 +2,8 @@
 
 void main()
 {
-    float  mat_1[1][1];
-    float mat_2[1][1];
+    float  mat_1[2][2];
+    float mat_2[2][2];
     float sum[2][2];
 
     for (int i=0;i<2;i++)
